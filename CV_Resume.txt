@@ -1,0 +1,29 @@
+Curriculum Vitae
+----------------
+
+Name: Thitsadaphone PHIAKEO
+Date of Birth: 07-Jan-2001
+Nationality: Laos
+Email: Thitsadaphone.phiakeo@gmail.com
+
+Education:
+- MS.Sathid and Master IT, Laos
+- Specialization: IT / Cybersecurity
+
+Skills:
+- Programming: Python, Java
+- Cybersecurity: Ethical Hacking, Network Security, AI Threat Detection
+- Tools: Wireshark, VMware, Git, Linux
+
+Projects:
+1. Ethical Hacking Simulation
+   - Conducted penetration testing in controlled environments.
+2. Network Monitoring System
+   - Developed a monitoring tool using Python.
+3. AI Threat Detection
+   - Implemented AI models to detect network anomalies.
+
+Languages:
+- English (Intermediate)
+- Lao (Native)
+
